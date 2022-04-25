@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-- 🌱 I’m currently Following **Electrical and Information Degree**
+- 🌱 I’m currently Following **Electrical and Information Engineering Degree**
 
 - 💬 Ask me about **Web Development (react, nextjs, Spring) and ESB also**
 
