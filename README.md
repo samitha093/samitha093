@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 
 - 📫 Contact  me **slakshanpathiraja@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
