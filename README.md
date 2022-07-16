@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **lakshan.pathiraja@pm.me**
+- 📫 How to reach me **info@lakshan.xyz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
