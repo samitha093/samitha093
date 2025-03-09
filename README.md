@@ -4,7 +4,7 @@ I'm Lakshan,
 A self-taught developer passionate about building awesome digital experiences.
 
 - 🛠 Works as a SE
-- 🎓 Graduated from University of Ruhuna, BSc(Hon's) Electronic and Information Engineering
+- 🎓 Graduated from University of Ruhuna, BSc(Hon's) Electrical and Information Engineering
 - 🌱 Fullstack dev
 - 📫 Reach me via **lpathiraja@proton.me**
 
